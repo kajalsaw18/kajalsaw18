@@ -1,34 +1,47 @@
-## Hi,I'am Kajal kumari saw 👋
+# Hi, I'm Kajal Kumari Saw 👋
 
-### Aspiring Data Analyst
-B.com (Hons.) Economics Student at DU SOL.
+### 📊 Aspiring Data Analyst
 
-Interested in Data Analysis and Business Insights.
+🎓 B.Com (Hons.) Economics Student at DU SOL
 
-### Skills
-- Microsoft Excel
-- SQL/ MySQL
-- Python
-- Data Cleaning
-- Data Visualization
+💡 Interested in Data Analysis and Business Insights.
 
-### My Projects
+---
 
-### 1. Sales Data Analysis
--Tool: Microsoft Excel
--Goal: Analyzing sales data to understand trends and business performance.
+## 🛠️ Skills
 
-### 2. Banking Data Analysis using SQL
--Tool: MySQL 
--Goal: Analyze banking data using SQL queries.
+- 📊 Microsoft Excel
+- 🗄️ SQL / MySQL
+- 🐍 Python
+- 🧹 Data Cleaning
+- 📈 Data Visualization
 
-### 3. Excel Dashboard
--Tool: Microsoft Excel
--Goal: Present business insights using charts and dashboards.
+---
 
-### Career Goal
-To become a skilled Data Analyst and use data to solve real_world business problems.
+## 📂 My Projects
 
-###connect with me 
-Github:
-https://gitub.com/kajalsaw18
+### 1. 📊 Sales Data Analysis
+- **Tool:** Microsoft Excel
+- **Goal:** Analyze sales trends and business performance.
+
+### 2. 🏦 Banking Data Analysis Using SQL
+- **Tool:** MySQL
+- **Goal:** Analyze banking data using SQL queries.
+
+### 3. 📈 Excel Dashboard
+- **Tool:** Microsoft Excel
+- **Goal:** Present business insights using charts and dashboards.
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Data Analyst and use data to solve real-world business problems.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [kajalsaw18](https://github.com/kajalsaw18)
+
+
