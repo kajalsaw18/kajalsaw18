@@ -6,11 +6,11 @@ B.com (Hons.) Economics Student at DU SOL.
 Interested in Data Analysis and Business Insights.
 
 ### Skills
-Microsoft Excel
-SQL/ MySQL
-Python
-Data Cleaning
-Data Visualization
+- Microsoft Excel
+- SQL/ MySQL
+- Python
+- Data Cleaning
+- Data Visualization
 
 ### My Projects
 
