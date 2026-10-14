@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi,I'am Kajal kumari saw 👋
 
-<!--
-**kajalsaw18/kajalsaw18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
+B.com (Hons.) Economics Student at DU SOL.
 
-Here are some ideas to get you started:
+Interested in Data Analysis and Business Insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Microsoft Excel
+SQL/ MySQL
+Python
+Data Cleaning
+Data Visualization
+
+### My Projects
+
+### 1. Sales Data Analysis
+Analyzing sales data to understand trends and business performance.
+
+### 2. Banking Data Analysis using SQL
+Using SQL queries to analyze banking data.
+
+### 3. Excel Dashboard
+Creating dashboards to visualize sales and business insights.
+
+### Career Goal
+To become a skilled Data Analyst and use data to solve real_world business problems.
+
+###connect with me 
+Github:
+https://gitub.com/kajalsaw18
