@@ -42,6 +42,7 @@ To become a skilled Data Analyst and use data to solve real-world business probl
 
 ## 📫 Connect With Me
 
-- **GitHub:** [kajalsaw18](https://github.com/kajalsaw18)
+- **Email:** kajalsaw8700@gmail.com
+- **Phone no:** 8700711409
 
 
